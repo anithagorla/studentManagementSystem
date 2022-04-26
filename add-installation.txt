@@ -1,2 +1,0 @@
-Here are the list of instructions
-crud operations
